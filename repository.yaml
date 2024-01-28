@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Iñaki's Home Assistant Add-on Repository 
+url: 'https://github.com/iAbadia/ha-addons'
+maintainer: Iñaki Abadia <i.abadiaosta@gmail.com>

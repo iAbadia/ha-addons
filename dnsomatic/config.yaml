@@ -1,7 +1,7 @@
 name: "DNS-O-Matic"
 description: "Iñaki's DNS-O-Matic Addon"
 version: "1.0.0"
-url: "https://github.com/iAbadia/ha-addons"
+url: "https://github.com/iAbadia/ha-addons/tree/main/dnsomatic"
 slug: "dnsomatic"
 init: false
 arch:
