@@ -13,6 +13,6 @@ arch:
 schema:
   hostname: list(dynamic)
   domain: str
-  email: match(^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$)
+  email: str
   api_token: str
   update_interval: int
