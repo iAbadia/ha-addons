@@ -11,8 +11,8 @@ arch:
   - armv7
   - i386
 schema:
-  hostname: str
+  hostname: list(dynamic)
   domain: str
-  email: str
+  email: match(^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$)
   api_token: str
   update_interval: int
